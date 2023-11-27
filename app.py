@@ -21,14 +21,6 @@ if __name__ == "__main__":
     app.run()
 
 
-# In[2]:
-
-
-pip install flask
-
-
-# In[ ]:
-
 
 
 
